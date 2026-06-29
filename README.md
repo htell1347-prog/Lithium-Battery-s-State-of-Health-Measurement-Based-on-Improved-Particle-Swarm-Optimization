@@ -1,3 +1,5 @@
+中文 | [English](https://github.com/htell1347-prog/Lithium-Battery-s-State-of-Health-Measurement-Based-on-Improved-Particle-Swarm-Optimization/blob/main/README_EN.md)
+
 # 基于改进粒子群算法的锂电池健康度测量问题研究
 
 **Lithium Battery ’s State of Health Measurement Based on Improved Particle Swarm Optimization**
